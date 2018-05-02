@@ -4,8 +4,9 @@
 @import "{{ site.theme }}";
 
 .nav {
-  position: relative;
-  max-width: 640px;
+  width: 640px;
+  margin: auto;
+  padding: 10px;
 }
 
 .nav ul {
@@ -28,6 +29,6 @@
 }
 
 .nav li a:hover {
-  background-color: #212121;
+  background-color: white;
   color: white;
 }
