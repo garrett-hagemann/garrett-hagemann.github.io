@@ -1,5 +1,5 @@
 ---
-title: Garrett Hagemann
+title: Garrett Hagemann - About
 ---
 
 # About Me
