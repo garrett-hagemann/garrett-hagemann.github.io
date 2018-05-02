@@ -3,8 +3,9 @@
 
 @import "{{ site.theme }}";
 
-.nav{
-  align: center;
+.nav {
+  position: relative;
+  max-width: 640px;
 }
 
 .nav ul {
@@ -26,7 +27,7 @@
   text-decoration: none;
 }
 
-.nav li a {
-  background-color: #555;
+.nav li a:hover {
+  background-color: #212121;
   color: white;
 }
