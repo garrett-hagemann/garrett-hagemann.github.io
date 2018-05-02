@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .nav{
-  align: center
+  align: center;
 }
 
 .nav ul {
@@ -20,8 +20,13 @@
 
 .nav li a {
   display: block;
-  color: white
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+.nav li a {
+  background-clor: #555;
+  color: white;
 }
