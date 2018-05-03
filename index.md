@@ -6,7 +6,7 @@ title: Garrett Hagemann - About
 
 <table class="img_tab">
 <tr>
-<td style="vertical-align:top"><img height="202" width="132" style="border:0px" src="images/Hagemann_professional_photo_cropped_small.jpg"></td>
+<td style="vertical-align:top"><img height="202" width="132" style="border:0px margin:0 padding:0 -webkit-box-shadow:0" src="images/Hagemann_professional_photo_cropped_small.jpg"></td>
 <td style="vertical-align:top">I am an economist, primarily interested in empirical industrial organization. My research focuses on nonlinear pricing, including the effects of quantity discounts in intermediate goods markets.</td>
 </tr>
 </table>

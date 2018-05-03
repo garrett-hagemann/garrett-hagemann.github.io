@@ -35,5 +35,9 @@
 table.img_tab {
   border-collapse: collapse;
   border: none;
-  border-color: none;
+}
+
+table.img_tab td {
+  padding: 0 ;
+  border: 0;
 }
