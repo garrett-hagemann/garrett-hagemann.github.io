@@ -2,9 +2,10 @@
 title: Garrett Hagemann - About
 ---
 
-# About Me
+<img align="left" src="images/Hagemann_professional_photo_cropped_small.jpg">
 
-<img align="left" src="images/Hagemann_professional_photo_cropped_small.jpg"> I am an economist, focusing primarily on questions in empirical industrial organization. My research focuses on nonlinear pricing, including the effects of quantity discounts in intermediate goods markets.
+# About Me
+I am an economist, focusing primarily on questions in empirical industrial organization. My research focuses on nonlinear pricing, including the effects of quantity discounts in intermediate goods markets.
 
 ## Education
 * Ph.D., Economics, University of Texas at Austin, 2018
